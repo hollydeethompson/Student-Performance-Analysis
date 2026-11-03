@@ -56,3 +56,25 @@ The correlation between absences and final math grades was approximately 0.034, 
 Students who received a final course grade of zero had substantially lower average grades during earlier grading periods (G1 and G2) than students who received a final grade above zero.
 
 The dataset does not explain why these students received a zero, so these results should not be interpreted as evidence of a specific cause.
+## Data Cleaning and Methodology
+
+The dataset contains 395 student records. The analysis was completed using Google Sheets.
+
+### Data Preparation
+- Reviewed the study time, absences, and mathematics grade variables.
+- Verified that the dataset contained 395 student records.
+- Identified 38 students with a final mathematics course grade (G3) of zero.
+- Investigated these records by comparing their earlier-period grades (G1 and G2) and recorded absences.
+- Retained all 395 records because the dataset does not provide sufficient information to justify removing the zero grades.
+
+### Analysis Methods
+- Calculated descriptive statistics, including mean, median, and standard deviation.
+- Compared average final grades across four weekly study-time categories.
+- Calculated the Pearson correlation coefficient between absences and final grades.
+- Created charts to visualize grade patterns and relationships.
+- Compared earlier-period grades for students with final grades of zero versus those with grades above zero.
+
+### Data Limitations
+The dataset does not explain why 38 students received a final grade of zero. All 38 had zero recorded absences, but this does not establish the reason for their final grades.
+
+The findings describe associations and should not be interpreted as evidence of causation.
