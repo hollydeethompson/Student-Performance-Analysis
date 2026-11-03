@@ -43,3 +43,8 @@ https://archive.ics.uci.edu/dataset/320/student+performance
 ### Average Final Grade by Weekly Study Time
 
 ![Average Final Grade by Weekly Study Time](Average%20Final%20Grade%20by%20Weekly%20Study%20Time.png)
+### Absences vs. Final Math Grade
+
+![Absences vs. Final Math Grade](Absences%20vs.%20Final%20Math%20Grade.png)
+
+The correlation between absences and final math grades was approximately 0.034, indicating almost no linear relationship in this dataset.
