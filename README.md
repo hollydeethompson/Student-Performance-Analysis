@@ -38,3 +38,8 @@ The analysis suggests a modest pattern between weekly study time and final mathe
 ## Data Source
 UCI Machine Learning Repository — Student Performance Dataset  
 https://archive.ics.uci.edu/dataset/320/student+performance
+## Data Visualizations
+
+### Average Final Grade by Weekly Study Time
+
+![Average Final Grade by Weekly Study Time](Average%20Final%20Grade%20by%20Weekly%20Study%20Time.png)
