@@ -48,3 +48,11 @@ https://archive.ics.uci.edu/dataset/320/student+performance
 ![Absences vs. Final Math Grade](Absences%20vs.%20Final%20Math%20Grade.png)
 
 The correlation between absences and final math grades was approximately 0.034, indicating almost no linear relationship in this dataset.
+
+### Earlier Math Performance by Final Grade Group
+
+![Earlier Math Performance by Final Grade Group](Earlier%20Math%20Performance%20by%20Final%20Grade%20Group.png)
+
+Students who received a final course grade of zero had substantially lower average grades during earlier grading periods (G1 and G2) than students who received a final grade above zero.
+
+The dataset does not explain why these students received a zero, so these results should not be interpreted as evidence of a specific cause.
