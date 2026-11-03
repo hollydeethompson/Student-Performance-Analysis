@@ -1,4 +1,17 @@
 # Student Performance Analysis: Study Time, Absences, and Final Math Grades
+## Executive Summary
+
+This project analyzes mathematics performance data from 395 students using Google Sheets. The goal was to explore relationships between weekly study time, school absences, and final mathematics grades.
+
+Using descriptive statistics, correlation analysis, and data visualizations, I identified patterns in student performance and investigated unusual values in the dataset.
+
+Key findings include:
+- Students reporting 5–10 hours of weekly study time had the highest average final grade (11.40 out of 20).
+- School absences showed almost no linear correlation with final grades (r = 0.034).
+- Approximately 9.6% of students received a final grade of zero, highlighting the importance of investigating unusual values and documenting data limitations.
+
+This project demonstrates my ability to analyze data, identify patterns, create visualizations, and communicate findings clearly.
+ 
 
 ## Project Overview
 This beginner data analytics project explores the relationship between students' weekly study time, school absences, and final mathematics course grades.
